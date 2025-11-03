@@ -1,5 +1,7 @@
 # Yamabisi Clone List
 
+![Yamabisi Logo](../../images/yamabisiImages/yamabisiLogo.JPG "Yamabisi Logo")
+
 ## Overview:
 The majority of **Yamabisi** outboard motors are **clones of older Yamaha designs**, with high parts compatibility, similar specs (e.g., displacement, RPM ranges, and gear ratios).
 
