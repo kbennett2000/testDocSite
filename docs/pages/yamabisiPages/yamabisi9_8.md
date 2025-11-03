@@ -1,3 +1,6 @@
+---
+---
+
 # Yamabisi 9.8 hp Four Stroke Outboard
 
 ## Yamabisi 9.8hp Stats:
