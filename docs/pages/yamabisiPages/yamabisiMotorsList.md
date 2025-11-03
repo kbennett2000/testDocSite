@@ -8,7 +8,7 @@ The majority of **Yamabisi** outboard motors are **clones of older Yamaha design
 
 ## Exceptions:
 
-The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu clone**). The **9.9HP**, however, aligns with **Yamaha**.
+The **only notable exception** is the **[9.8HP model](./yamabisi9_8.md)** (confirmed as a **Tohatsu clone**). The **[9.9HP](./yamabisi9_9.md)**, however, aligns with **Yamaha**.
 
 ## List of Yamabisi Clone Motors:
 
