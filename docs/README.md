@@ -9,7 +9,7 @@
 - [Crawfishing Resources](./pages/crawfishing/crawfishing.md)
   - [Crawfishing FAQ](./pages/crawfishing/crawfishingFAQ.md)
   - [Crawfishing Fishing Guide](./pages/crawfishing/crawfishingGuide.md)
-  - [Crawfishing Boil Recipe](./pages/crawfishing/crawfishingCooking.md)
+  - [Crawfishing Boil Recipe](./pages/crawfishing/crawfishCooking.md)
 - [See all the Yamabisi clone motors](./pages/yamabisiPages/yamabisiMotorsList.md)
   - [The Yamabisi 9.8hp outboard motor](./pages/yamabisiPages/yamabisi9_8.md)
   - [The Yamabisi 9.9hp outboard motor](./pages/yamabisiPages/yamabisi9_9.md)
