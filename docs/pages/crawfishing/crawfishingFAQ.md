@@ -1,87 +1,109 @@
-# FAQ
+# Crawfish FAQ  
+### *Everything You Need to Know for Colorado*
 
-## What are front range Crawfish?
+---
 
-- Faxonius virilis
+## What Are Front Range Crawfish?
 
-## What are the rules for fishing for crawdads in Colorado?
+- **Scientific Name:** *Faxonius virilis* (Virile/Northern Crayfish)  
+- Common, native species found east of the Continental Divide.
 
-### Rules for Fishing for Crawdads (Crayfish) in Colorado
+---
 
-- Rules apply statewide unless overridden by local or special regulations (e.g., no traps in Aurora Reservoir).
-- A valid fishing license is required for anyone 16 or older (~$36 annual resident; purchase at cpw.state.co.us).
-  - Youth under 16 fish free but need supervision.
+## Colorado Crayfish Fishing Rules  
+*(Statewide unless local rules apply — always check CPW brochure)*
 
-#### Methods
+| Category         | Regulation |
+|------------------|------------|
+| **License**      | Required for ages **16+** (~$36 resident). Youth <16 fish free with supervision. Buy at [cpw.state.co.us](https://cpw.state.co.us). |
+| **Methods**      | Hand, baited lines, traps, pots, nets, seines. **No** firearms, gigs, or poisons. |
+| **Traps**        | Must be tagged with **CPW CID** or name/address. Must allow non-target escape. |
+| **Seines**       | ≤¼" nonmetallic mesh, max **20 ft × 4 ft**. |
+| **Season**       | **Year-round** — no closed season. |
+| **Bag Limit**    | **Unlimited** daily & possession. |
 
-- Crayfish may be taken by hand, baited lines, traps, pots, nets, or seines for food or bait.
-- Cage or box traps (including set pots) are allowed and must be tagged with your CPW Customer Identification Number (CID) or name/address.
-  - Traps must allow non-target escape (e.g., via openings).
-- Seines must be ¼-inch or smaller nonmetallic square mesh, max 20 ft long x 4 ft deep.
-- Prohibited: Firearms, gigs, poisons, or methods that harm non-targets.
+---
 
-#### Seasons
+### Possession Rules
 
-- Year-round, no closed season statewide.
+| Location                  | Allowed Species & Rules |
+|---------------------------|--------------------------|
+| **East of Continental Divide** | Only: *virile, waternymph, calico, ringed, Southern Plains* |
+| **West of Divide**        | **All caught crayfish must be immediately killed** (separate tail) or returned unharmed. |
+| **Both Sides**            | ✅ Freshwater shrimp, brine shrimp, krill<br>❌ All other species prohibited |
 
-#### Limits
+> **Commercial Harvest:** Minimum **3 inches** (acumen to telson). Return egg-bearing females.
 
-- Unlimited daily bag and possession limit.
+---
 
-#### Possession
+### Red Swamp Crayfish *(Procambarus clarkii)*  
+- **Legal to import & possess live** for food (since Jan 1, 2024)  
+- Must have **import license/receipt**  
+- Max possession: **72 hours**  
+- **No release. No use as bait.**
 
-- East of the Continental Divide: Only virile, waternymph, calico, ringed, and Southern Plains crayfish may be possessed.
-- West of the Divide: All caught crayfish must be immediately killed (separate abdomen from cephalothorax) or returned unharmed.
-- On either side: Freshwater shrimp, commercial brine shrimp, and krill are allowed; all other species prohibited.
-- Commercial minimum size: 3 inches (tip of acumen to telson); return egg-bearing females immediately.
-- Red swamp crayfish: Legal to import, transport, and possess live for human consumption (since Jan. 1, 2024), but possession limited to 72 hours max with importation license/receipt.
-  - No release or use as bait.
+---
 
-#### Special Rules
+### Special Regulations
+- **Do NOT release live bait crayfish** — dispose on land.  
+- **Sanchez Reservoir SWA:** No live crayfish transport (rusty crayfish present).  
+- **Report invasives:** Email `invasive.species@state.co.us` or call **303-291-7295**.  
+- **Clean/Drain/Dry** all gear to prevent ANS spread.
 
-- Don't release unused bait crayfish alive—dispose properly to prevent invasives.
-- At Sanchez Reservoir State Wildlife Area: No live crayfish transport due to rusty crayfish presence.
-- Report invasives (e.g., rusty crayfish) to CPW (email invasive.species@state.co.us or call 303-291-7295).
-- Clean/drain/dry gear to avoid spreading aquatic nuisance species (ANS).
+---
 
-#### Bait Usage
+## Trap Size Limits?
 
-- Crayfish can be used as bait where permitted, but no chumming.
-- Live crayfish as bait:
-  - East of Divide and below 7,000 ft—use only in the same water body (no transport/storage except in specific southeast counties).
-  - Prohibited west of Divide (except Navajo Reservoir and certain rivers/lakes).
-- Throw unused bait on land, not water.
+> **No statewide size limit** on cage/box traps or set pots.  
+> - Must allow non-target escape (e.g., openings ≥1.5")  
+> - Must be **tagged** with CPW CID or name/address  
+> - Check **daily**  
+> - **Seines only:** ≤20 ft × 4 ft, ≤¼" mesh  
+> - Local parks/reservoirs may **ban traps entirely** — verify in [2025 CPW Fishing Brochure](https://cpw.state.co.us)
 
-## Is there any limit on the size of the trap?
+---
 
-- There is no statewide limit on the size of cage or box traps (including set pots) used for taking crayfish in Colorado, as long as they are designed to allow non-target species to escape (e.g., via appropriate openings).
-- Seines (a type of net) are limited to ¼-inch or smaller nonmetallic square mesh, max 20 feet long x 4 feet deep, but traps have no such dimensions specified.
-- Always label traps with your CPW Customer Identification Number (CID) or name/address, and check them daily.
-- Local rules (e.g., in city parks) may prohibit traps entirely—confirm via CPW's 2025 Fishing Brochure.
+## Best Water Temperature for Catching Crayfish?
 
-## What water temperature is best for catching crayfish?
+| Temp Range       | Activity Level |
+|------------------|----------------|
+| **55–70°F (13–21°C)** | **Most active** — foraging in shallows |
+| **60–65°F (15–18°C)** | **Optimal** — best trap success |
+| **<50°F (10°C)** | Dormant — poor results |
+| **>75°F (24°C)** | Move to deeper/cooler water |
 
-- Crayfish become most active and easier to catch when water temperatures are in the 55–70°F (13–21°C) range, with optimal conditions around 60–65°F (15–18°C).
-- At these temps, they emerge from burrows, forage more aggressively in shallows (1–3 ft), and respond well to baits like chicken or fish scraps. - Below 50°F (10°C), activity slows dramatically (they hibernate or hide), requiring longer soaks or less success; above 75°F (24°C), they may retreat to deeper/cooler water, though some species tolerate up to 80°F (27°C) in warmer regions like Louisiana.
-- In Colorado's reservoirs (e.g., Eleven Mile or Chatfield, ~60–70°F in September), aim for dawn/dusk in rocky/muddy shallows during spring–fall when temps hit this sweet spot. Monitor with a thermometer or app for best results.
+> **Pro Tip:** Use chicken livers, fish scraps, or hot dogs. Set traps at **dawn/dusk** in **1–3 ft** of rocky/muddy water.
 
-## How long can I keep crawfish in a tank with an aerator?
+---
 
-- For short-term storage (e.g., before eating), a cooler with aerator can work for up to a week in cool, shady conditions.
+## How Long Can I Keep Crawfish Alive in a Tank?
 
-## When is the best time of year to catch crawfish at Elevenmile Reservoir?
+| Setup                     | Max Duration |
+|---------------------------|--------------|
+| **Aerated cooler/tank**   | **Up to 1 week** (cool, shaded, moist) |
+| **Bucket with damp burlap**| **2–3 days** |
 
-- The best time of year to catch crayfish at Eleven Mile Reservoir is late spring through early fall (April–October), when water temperatures rise above 55°F (13°C), making crayfish more active in rocky/muddy shallows.
-- Prime season peaks in summer (June–August), with reports of excellent hauls during this period due to warmer water (~60–70°F/15–21°C) and increased foraging.
-- Winter catches are possible but limited, as crayfish become dormant below 50°F (10°C).
-- The statewide season is year-round with no bag limits, but target dawn/dusk for best results.
-- Check current water temps via CPW's Fishing Atlas or park reports.
+> Change water daily. Keep **cool (50–60°F)** and **out of direct sun**.
 
-## Links:
+---
 
-- [Crawfishing Resources](./crawfishing.md)
-- [Go back home](../../README.md)
+## Best Time to Catch Crayfish at Eleven Mile Reservoir?
 
-### Last Updated:
+| Season            | Conditions & Tips |
+|-------------------|-------------------|
+| **Late Spring – Early Fall**<br>*(Apr–Oct)* | Water >55°F → active in shallows |
+| **Peak: June–August** | Warmest water (~60–70°F), highest activity |
+| **Winter**        | Possible but low yield (crayfish dormant) |
 
-- Nov 3, 2025
+> **Best windows:** **Dawn & dusk** in rocky/muddy areas.  
+> Check water temp via [CPW Fishing Atlas](https://cpw.state.co.us/fishing-atlas).
+
+---
+
+## Helpful Links
+- [Crawfishing Resources](./crawfishing.md)  
+- [← Back to Home](../../README.md)  
+
+---
+
+**Last Updated:** November 5, 2025

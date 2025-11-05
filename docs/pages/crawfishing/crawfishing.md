@@ -1,18 +1,22 @@
-# Crawfishing
+# Crawfishing Hub  
+![Crawfish](../../images/crawfishing/crawfish.jpg "Freshly Caught Crawfish")
 
-![Carwfish](../../images/crawfishing/crawfish.jpg "Crawfish")
+---
 
-## Crawfishing Resources
+## Quick Access Guides
 
-- [FAQ](./crawfishingFAQ.md)
-- [Fishing Guide](./crawfishingGuide.md)
-- [Crawfish Boil Recipe](./crawfishCooking.md)
+| Guide | Description | Link |
+|-------|-------------|------|
+| **FAQ** | Rules, temps, traps, and Colorado-specific laws | [View FAQ](./crawfishingFAQ.md) |
+| **Complete Fishing Guide** | Habitat, bait, gear, pro tips, and anti-theft tactics | [View Guide](./crawfishingGuide.md) |
+| **Crawfish Boil Recipe** | Simple, flavorful Louisiana-style boil | [View Recipe](./crawfishCooking.md) |
 
-## Links:
+---
 
-- [Crawfishing Resources](./crawfishing.md)
-- [Go back home](../../README.md)
+## Helpful Links
+- [Crawfishing Resources](./crawfishing.md) *(you are here)*  
+- [← Back to Home](../../README.md)  
 
-### Last Updated:
+---
 
-- Nov 3, 2025
+**Last Updated:** November 5, 2025
